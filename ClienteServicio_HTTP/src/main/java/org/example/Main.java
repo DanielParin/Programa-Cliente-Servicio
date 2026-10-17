@@ -6,8 +6,8 @@ public class Main {
     public static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        String url = "https://www.webempresa.com/blog/error-403-que-es-y-como-solucionarlo.html";
-        String saveDirectory = "/home/danipr/Descargas";
+        String url = "";
+        String saveDirectory = "";
         String fileType;
 
         System.out.print("Elija el tipo de fichero a descargar: ");
